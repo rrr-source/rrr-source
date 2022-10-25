@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rrr-source, welcome to my profile!
 - 👀 I’m interested in coding, and learning new languages.
-- 🌱 I’m currently learning python, django and Unreal Engine.
 - 💞️ I’m looking to collaborate on web or game development/some help too.
 - 📫 This is my email, i also got different messengers, maybe i share them as well in the future.
 romangolovlyov@gmail.com
