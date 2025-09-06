@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @rrr-source, welcome to my profile!
-- 👀 I’m interested in coding, and learning new languages.
-- 💞️ I’m looking to collaborate on web or game development/some help too.
-- 📫 This is my email, i also got different messengers, maybe i share them as well in the future.
-romangolovlyov@gmail.com
-<!---
-rrr-source/rrr-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Roman (@rrr-source)
+
+I’m a Frontend Engineer with strong interest in **Web2 & Web3 development**, passionate about building **scalable, pixel-perfect applications**.  
+I enjoy exploring new technologies, improving my coding skills, and contributing to meaningful projects.  
+
+## 👀 Interests
+- Modern frontend frameworks: **Vue 3, Nuxt, React**  
+- **Web3 / Blockchain integration** (wallets, smart contracts, dApps)  
+- Game development & interactive UI/UX  
+- Learning new programming languages and tools  
+
+## 💡 Looking to Collaborate On
+- Web platforms (SaaS, dashboards, admin panels)  
+- Web3 projects (presales, staking, tokenization platforms)  
+- Game development prototypes or side projects  
+
+## 📫 Contact
+- **Email:** romangolovlyov@gmail.com  
+- Additional messengers & socials will be added soon.  
+
+---
+
+✨ Always open to collaboration and new opportunities. Let’s build something great together!
