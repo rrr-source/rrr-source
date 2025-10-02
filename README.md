@@ -16,6 +16,7 @@ I enjoy exploring new technologies, improving my coding skills, and contributing
 
 ## Contact
 - **Email:** romangolovlyov@gmail.com  
+- Telegram: @gro_w
 - Additional messengers & socials will be added soon.  
 
 ---
