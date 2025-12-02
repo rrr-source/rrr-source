@@ -8,7 +8,7 @@ My focus is simple: deliver fast, intuitive, high-quality digital products — f
 ---
 
 ## Highlights
-- 3+ years of experience in Frontend & Web3 development  
+- 4+ years of experience in Frontend & Web3 development  
 - Built production Web3 platforms (presales, staking, token utilities)  
 - Integrated advanced wallet flows & on-chain interactions  
 - Delivered AI-powered apps using LLMs and generative models  
